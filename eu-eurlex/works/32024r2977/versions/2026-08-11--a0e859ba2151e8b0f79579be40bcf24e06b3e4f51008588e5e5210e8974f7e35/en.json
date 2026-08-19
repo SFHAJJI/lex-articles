@@ -1,0 +1,168 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "eu-eurlex:32024r2977:2026-08-11--a0e859ba2151e8b0f79579be40bcf24e06b3e4f51008588e5e5210e8974f7e35",
+  "language": "en",
+  "title": "Commission Implementing Regulation (EU) 2024/2977 of 28\u00A0November 2024 laying down rules for the application of Regulation (EU) No\u00A0910/2014",
+  "valid_from": "2026-08-11",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-eu-eurlex",
+    "path": "works/32024r2977/versions/2026-08-11--a0e859ba2151e8b0f79579be40bcf24e06b3e4f51008588e5e5210e8974f7e35/en.html",
+    "sha256": "4176896e684c0bc6ab7ba68e9ecf0800e97dc413dc1f0235acc6fcd28897a472",
+    "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02024R2977-20260811"
+  },
+  "generator": {
+    "profile": "xhtml-eu/1",
+    "tool": "lex derive"
+  },
+  "license": "EU reuse-with-attribution (Commission Decision 2011/833/EU)",
+  "attribution": "© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect",
+  "provisions": [
+    {
+      "anchor": "art_1",
+      "provision_id": "eu-eurlex:32024r2977:2026-08-11--a0e859ba2151e8b0f79579be40bcf24e06b3e4f51008588e5e5210e8974f7e35#art_1",
+      "eli": null,
+      "type": "article",
+      "num": "Article 1",
+      "heading": "Subject matter and scope",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "This Regulation lays down rules for the issuance of person identification data and electronic attestations of attributes to wallet units, to be updated on a regular basis to keep in line with technology and standards developments and with the work carried out on the basis of Recommendation (EU) 2021/946, and in particular the architecture and reference framework.",
+      "text_sha256": "7cba921f3f41b30f8475a071ab520e29de88e8dc3013716f6bd8c01fa6531a68",
+      "md_span": {
+        "start": 789,
+        "end": 1154
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "eu-eurlex:32024r2977:2026-08-11--a0e859ba2151e8b0f79579be40bcf24e06b3e4f51008588e5e5210e8974f7e35#art_2",
+      "eli": null,
+      "type": "article",
+      "num": "Article 2",
+      "heading": "Definitions",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "For the purpose of this Regulation, the following definitions apply:\n\n(1) ‘wallet user’ means a user who is in control of the wallet unit;\n\n(2) ‘wallet unit’ means a unique configuration of a wallet solution that includes wallet instances, wallet secure cryptographic applications and wallet secure cryptographic devices provided by a wallet provider to an individual wallet user;\n\n(3) ‘wallet solution’ means a combination of software, hardware, services, settings, and configurations, including wallet instances, one or more wallet secure cryptographic applications and one or more wallet secure cryptographic devices;\n\n(4) ‘provider of person identification data’ means a natural or legal person responsible for issuing and revoking the person identification data and ensuring that the person identification data of a user is cryptographically bound to a wallet unit;\n\n(5) ‘wallet unit attestation’ means a data object that describes the components of the wallet unit or allows authentication and validation of those components;\n\n(6) ‘wallet instance’ means the application installed and configured on a wallet user’s device or environment, which is part of a wallet unit, and that the wallet user uses to interact with the wallet unit;\n\n(7) ‘wallet secure cryptographic application’ means an application that manages critical assets by being linked to and using the cryptographic and non-cryptographic functions provided by the wallet secure cryptographic device;\n\n(8) ‘wallet secure cryptographic device’ means a tamper-resistant device that provides an environment that is linked to and used by the wallet secure cryptographic application to protect critical assets and provide cryptographic functions for the secure execution of critical operations;\n\n(9) ‘wallet provider’ means a natural or legal person who provides wallet solutions;\n\n(10) ‘critical assets’ means assets within or in relation to a wallet unit of such extraordinary importance that where their availability, confidentiality or integrity are compromised, this would have a very serious, debilitating effect on the ability to rely on the wallet unit;\n\n(11) ‘wallet-relying party’ means a relying party that intends to rely upon wallet units for the provision of public or private services by means of digital interaction;\n\n(12) ‘wallet-relying party access certificate’ means a certificate for electronic seals or signatures authenticating and validating the wallet-relying party issued by a provider of wallet-relying party access certificates;\n\n(13) ‘provider of wallet-relying party access certificates’ means a natural or legal person mandated by a Member State to issue relying party access certificates to wallet-relying parties registered in that Member State.",
+      "text_sha256": "d824ab1bce66e06727e92deb0d189682c222766d9d943b36fba305577fdd9321",
+      "md_span": {
+        "start": 1205,
+        "end": 3945
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_3",
+      "provision_id": "eu-eurlex:32024r2977:2026-08-11--a0e859ba2151e8b0f79579be40bcf24e06b3e4f51008588e5e5210e8974f7e35#art_3",
+      "eli": null,
+      "type": "article",
+      "num": "Article 3",
+      "heading": "Issuance of person identification data to wallet units",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "**1.** Providers of person identification data shall issue person identification data to wallet units in accordance with the electronic identification schemes under which wallet solutions are provided.\n\n**2.** Providers of person identification data shall ensure that person identification data issued to wallet units contains the information necessary for authentication and validation of the person identification data.\n\n**3.** Providers of person identification data shall ensure that person identification data issued to wallet units comply with the technical specifications set out in the Annex.\n\n**4.** Member States shall ensure that the person identification data issued to a given wallet user is unique for the Member State.\n\n**5.** Providers of person identification data shall ensure that person identification data that they issue is cryptographically bound to the wallet unit to which it is issued.\n\n**6.** Member States shall make publicly available a list of wallet solutions that are supported by providers of person identification data that is part of electronic identification schemes of that Member State.\n\n**7.** Member States shall enroll wallet users in accordance with the requirements relating to enrolment at assurance level high, as set out in Commission Implementing Regulation (EU) 2015/1502 (1). In the context of the enrolment process, providers of person identification data shall perform identity verification of the wallet user in accordance with the requirements related to identity proofing and verification before issuing the person identification data to the wallet unit of the corresponding wallet user.\n\n**8.** When issuing person identification data to wallet units, providers of person identification data shall identify themselves to wallet units using their wallet-relying party access certificate or by using another authentication mechanism in accordance with an electronic identity scheme notified at assurance level high.\n\n**9.** Before issuing person identification data to a wallet unit, providers of person identification data shall authenticate and validate the wallet unit attestation of the wallet unit and verify that the wallet unit belongs to a wallet solution the provider of person identification data accepts or use another authentication mechanism in accordance with an electronic identity scheme notified at assurance level high.",
+      "text_sha256": "41e6436400cd1d22b55a97d6dd2bf55db97e2f9358e6b4974c4066f422ca6d49",
+      "md_span": {
+        "start": 4039,
+        "end": 6429
+      },
+      "citations": [
+        {
+          "href": "#E0001",
+          "text": "1"
+        }
+      ]
+    },
+    {
+      "anchor": "art_3a",
+      "provision_id": "eu-eurlex:32024r2977:2026-08-11--a0e859ba2151e8b0f79579be40bcf24e06b3e4f51008588e5e5210e8974f7e35#art_3a",
+      "eli": null,
+      "type": "article",
+      "num": "Article 3a",
+      "heading": "Protection of the portrait",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "**1.** In addition to information requirements pursuant to Regulation (EU) 2016/679, wallet providers shall ensure that the wallet solutions they provide issue warnings to wallet users where wallet-relying parties request the disclosure of the portrait, indicating that the request involves the sharing of biometric data and requires confirmation for the selective disclosure of the portrait.\n\n**2.** For the implementation of selectively disclosing the portrait to a wallet-relying party, the wallet providers shall ensure the wallet solutions require the wallet user to explicitly and specifically confirm the presentation of the portrait.\n\n**3.** The portrait shall not be retained by wallet-relying parties unless its processing is necessary for the purposes of identification and authentication in compliance with Union data protection law or where this is provided for by Union or national law, in compliance with Union data protection law. The portrait shall not be transferred to third countries or international organisations unless permitted by Union data protection law.",
+      "text_sha256": "31e0946b1934e5a7786e07853eae724c36e2a167e6e5abd22123b404222c08a7",
+      "md_span": {
+        "start": 6497,
+        "end": 7578
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_4",
+      "provision_id": "eu-eurlex:32024r2977:2026-08-11--a0e859ba2151e8b0f79579be40bcf24e06b3e4f51008588e5e5210e8974f7e35#art_4",
+      "eli": null,
+      "type": "article",
+      "num": "Article 4",
+      "heading": "Issuance of electronic attestations of attributes to wallet units",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "**1.** Electronic attestations of attributes issued to wallet units shall comply with at least one of the standards set out in Annex II of Implementing Regulation (EU) 2024/2979.\n\n**2.** Providers of electronic attestations of attributes shall identify themselves to wallet units using their wallet-relying party access certificate.\n\n**3.** Providers of electronic attestations of attributes shall ensure that electronic attestations of attributes issued to wallet units contain the information necessary for authentication and validation of those electronic attestations of attributes.",
+      "text_sha256": "5d2b615c6b1d445a919de62027f885ac9091e29c6413a03b9a14f56c0f528bb5",
+      "md_span": {
+        "start": 7683,
+        "end": 8269
+      },
+      "citations": [
+        {
+          "href": "http://publications.europa.eu/resource/celex/32026R1731",
+          "text": "32026R1731: REPLACED"
+        },
+        {
+          "href": "http://publications.europa.eu/resource/celex/32024R2977",
+          "text": "32024R2977"
+        }
+      ]
+    },
+    {
+      "anchor": "art_5",
+      "provision_id": "eu-eurlex:32024r2977:2026-08-11--a0e859ba2151e8b0f79579be40bcf24e06b3e4f51008588e5e5210e8974f7e35#art_5",
+      "eli": null,
+      "type": "article",
+      "num": "Article 5",
+      "heading": "Revocation of person identification data",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "**1.** Providers of person identification data issued to a wallet unit shall have written and publicly accessible policies relating to validity status management, including, where applicable, the conditions under which such person identification data can be revoked without delay.\n\n**2.** Only providers of person identification data or electronic attestation of attributes can revoke the person identification data or electronic attestations of attributes issued by them.\n\n**3.** Where providers of person identification data have revoked person identification data, they shall, through dedicated and secure channels, inform wallet users subject of those person identification data within 24 hours of the revocation and of the reasons for the revocation. This shall be done in a manner that is concise, easily accessible and using clear and plain language.\n\n**4.** Where providers of person identification data revoke person identification data issued to wallet units, they shall do so in each of the following circumstances:(a) upon the explicit request of the wallet user to whose wallet unit the person identification data or electronic attestation of attributes were issued to;▼M1(b) where the wallet unit attestation of the wallet unit to which the person identification data was issued to has been revoked;▼B(c) in other situations determined by the providers of person identification data or electronic attestations of attributes in their policies referred to in paragraph 1.\n\n**5.** Providers of person identification data issued to a wallet unit shall ensure that revocations cannot be reverted.\n\n**6.** The revoked person identification data shall remain accessible for as long as required by Union law or national law.\n\n**7.** Where providers of person identification data revoke person identification data issued to wallet units, they shall make publicly available the validity status of person identification data they issue, in a privacy preserving manner, and indicate the location of that information in the person identification data.\n\n**8.** Providers of person identification data shall enable privacy preserving techniques which ensure unlinkability where the electronic attestations of attributes do not require the identification of the user.",
+      "text_sha256": "5f1baedd98a81608e39ddceb36f95d8adbe5c4eee36d1e531259fdae59fc5fb8",
+      "md_span": {
+        "start": 8349,
+        "end": 10614
+      },
+      "citations": [
+        {
+          "href": "http://publications.europa.eu/resource/celex/32026R1731",
+          "text": "▼M1"
+        },
+        {
+          "href": "http://publications.europa.eu/resource/celex/32024R2977",
+          "text": "▼B"
+        }
+      ]
+    },
+    {
+      "anchor": "art_6",
+      "provision_id": "eu-eurlex:32024r2977:2026-08-11--a0e859ba2151e8b0f79579be40bcf24e06b3e4f51008588e5e5210e8974f7e35#art_6",
+      "eli": null,
+      "type": "article",
+      "num": "Article 6",
+      "heading": "Entry into force",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "This Regulation shall enter into force on the twentieth day following that of its publication in the *Official Journal of the European Union*.",
+      "text_sha256": "b56708fda318747539ac1535763071331ae847bde5f1692b41a90b7bddad33b0",
+      "md_span": {
+        "start": 10670,
+        "end": 10812
+      },
+      "citations": []
+    }
+  ],
+  "notes": [
+    "boundaries: publisher eli-subdivision fragment identifiers (structural-in-presentation)"
+  ]
+}

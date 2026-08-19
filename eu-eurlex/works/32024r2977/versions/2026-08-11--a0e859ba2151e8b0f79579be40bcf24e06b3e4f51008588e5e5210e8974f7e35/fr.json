@@ -1,0 +1,168 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "eu-eurlex:32024r2977:2026-08-11--a0e859ba2151e8b0f79579be40bcf24e06b3e4f51008588e5e5210e8974f7e35",
+  "language": "fr",
+  "title": "Commission Implementing Regulation (EU) 2024/2977 of 28\u00A0November 2024 laying down rules for the application of Regulation (EU) No\u00A0910/2014",
+  "valid_from": "2026-08-11",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-eu-eurlex",
+    "path": "works/32024r2977/versions/2026-08-11--a0e859ba2151e8b0f79579be40bcf24e06b3e4f51008588e5e5210e8974f7e35/fr.html",
+    "sha256": "2e15a3469934180e023ae0e2bc85398b975bc919a8fd919346ef537517220734",
+    "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:02024R2977-20260811"
+  },
+  "generator": {
+    "profile": "xhtml-eu/1",
+    "tool": "lex derive"
+  },
+  "license": "EU reuse-with-attribution (Commission Decision 2011/833/EU)",
+  "attribution": "© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect",
+  "provisions": [
+    {
+      "anchor": "art_1",
+      "provision_id": "eu-eurlex:32024r2977:2026-08-11--a0e859ba2151e8b0f79579be40bcf24e06b3e4f51008588e5e5210e8974f7e35#art_1",
+      "eli": null,
+      "type": "article",
+      "num": "Article premier",
+      "heading": "Objet et champ d’application",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Le présent règlement établit des règles pour la délivrance de données d’identification personnelle et d’attestations électroniques d’attributs aux unités de portefeuille, qui doivent être régulièrement mises à jour pour tenir compte de l’évolution des technologies et des normes ainsi que des travaux menés sur la base de la recommandation (UE) 2021/946, et en particulier de l’architecture et du cadre de référence.",
+      "text_sha256": "9b8b3c5adb7e71d4a83321c2c23294b96bb84dab5abb3cd4465d08071600d8f1",
+      "md_span": {
+        "start": 799,
+        "end": 1215
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "eu-eurlex:32024r2977:2026-08-11--a0e859ba2151e8b0f79579be40bcf24e06b3e4f51008588e5e5210e8974f7e35#art_2",
+      "eli": null,
+      "type": "article",
+      "num": "Article 2",
+      "heading": "Définitions",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Aux fins du présent règlement, on entend par:\n\n1) «utilisateur de portefeuille»: un utilisateur qui contrôle l’unité de portefeuille;\n\n2) «unité de portefeuille»: une configuration unique d’une solution de portefeuille comprenant des instances de portefeuille, des applications cryptographiques sécurisées de portefeuille et des dispositifs cryptographiques sécurisés de portefeuille, fournie par un fournisseur de portefeuille à un utilisateur de portefeuille donné;\n\n3) «solution de portefeuille»: une combinaison de logiciels, de matériel, de services, de paramètres et de configurations, y compris des instances de portefeuille, une ou plusieurs applications cryptographiques sécurisées de portefeuille et un ou plusieurs dispositifs cryptographiques sécurisés de portefeuille;\n\n4) «fournisseur de données d’identification personnelle»: une personne physique ou morale chargée de délivrer et de révoquer les données d’identification personnelle et de veiller à ce que les données d’identification personnelle d’un utilisateur soient liées de manière cryptographique à une unité de portefeuille;\n\n5) «attestation d’unité de portefeuille»: un objet de données qui décrit les composants de l’unité de portefeuille ou permet l’authentification et la validation de ces composants;\n\n6) «instance de portefeuille»: l’application installée et configurée sur l’appareil ou dans l’environnement d’un utilisateur de portefeuille, qui fait partie d’une unité de portefeuille et dont l’utilisateur de portefeuille se sert pour interagir avec l’unité de portefeuille;\n\n7) «application cryptographique sécurisée de portefeuille»: une application qui gère des actifs critiques en étant liée aux fonctions cryptographiques et non cryptographiques fournies par le dispositif cryptographique sécurisé de portefeuille et en utilisant ces fonctions;\n\n8) «dispositif cryptographique sécurisé de portefeuille»: un dispositif inviolable qui fournit un environnement lié à l’application cryptographique sécurisée de portefeuille et utilisé par celle-ci pour protéger les actifs critiques et fournir des fonctions cryptographiques pour l’exécution sécurisée d’opérations critiques;\n\n9) «fournisseur de portefeuille»: une personne physique ou morale qui fournit des solutions de portefeuille;\n\n10) «actifs critiques»: les actifs se trouvant à l’intérieur d’une unité de portefeuille ou en rapport avec celle-ci et dont l’importance est tellement exceptionnelle que la capacité de se fier à l’unité de portefeuille serait très sérieusement affaiblie si leur disponibilité, leur confidentialité ou leur intégrité étaient compromises;\n\n11) «partie utilisatrice de portefeuille»: une partie utilisatrice qui a l’intention de se fier à des unités de portefeuille pour la fourniture de services publics ou privés au moyen d’une interaction numérique;\n\n12) «certificat d’accès de partie utilisatrice de portefeuille»: un certificat de cachet électronique ou de signature électronique qui authentifie et valide la partie utilisatrice de portefeuille et qui est délivré par un fournisseur de certificats d’accès de partie utilisatrice de portefeuille;\n\n13) «fournisseur de certificats d’accès de partie utilisatrice de portefeuille»: une personne physique ou morale mandatée par un État membre pour délivrer des certificats d’accès de partie utilisatrice aux parties utilisatrices de portefeuille enregistrées dans cet État membre.",
+      "text_sha256": "eec17d2a97026b864e1384a02f1dd6812c83ce67fa2fbffcaf76967064e7f134",
+      "md_span": {
+        "start": 1266,
+        "end": 4665
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_3",
+      "provision_id": "eu-eurlex:32024r2977:2026-08-11--a0e859ba2151e8b0f79579be40bcf24e06b3e4f51008588e5e5210e8974f7e35#art_3",
+      "eli": null,
+      "type": "article",
+      "num": "Article 3",
+      "heading": "Délivrance de données d’identification personnelle aux unités de portefeuille",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "**1.** Les fournisseurs de données d’identification personnelle délivrent des données d’identification personnelle aux unités de portefeuille conformément aux schémas d’identification électronique dans le cadre desquels des solutions de portefeuille sont fournies.\n\n**2.** Les fournisseurs de données d’identification personnelle veillent à ce que les données d’identification personnelle délivrées aux unités de portefeuille contiennent les informations nécessaires à l’authentification et à la validation des données d’identification personnelle.\n\n**3.** Les fournisseurs de données d’identification personnelle veillent à ce que les données d’identification personnelle délivrées aux unités de portefeuille soient conformes aux spécifications techniques énoncées dans l’annexe.\n\n**4.** Les États membres veillent à ce que les données d’identification personnelle délivrées à un utilisateur de portefeuille donné soient uniques pour l’État membre.\n\n**5.** Les fournisseurs de données d’identification personnelle veillent à ce que les données d’identification personnelle qu’ils délivrent soient liées de manière cryptographique à l’unité de portefeuille à laquelle elles sont délivrées.\n\n**6.** Les États membres mettent à la disposition du public une liste de solutions de portefeuille prises en charge par les fournisseurs de données d’identification personnelle qui font partie des schémas d’identification électronique de cet État membre.\n\n**7.** Les États membres inscrivent les utilisateurs de portefeuille conformément aux exigences relatives à l’inscription à un niveau de garantie élevé, telles qu’énoncées dans le règlement d’exécution (UE) 2015/1502 de la Commission (1). Dans le cadre du processus d’inscription, les fournisseurs de données d’identification personnelle procèdent à une vérification de l’identité de l’utilisateur de portefeuille, conformément aux exigences concernant la preuve et la vérification d’identité, avant de délivrer les données d’identification personnelle à l’unité de portefeuille de l’utilisateur de portefeuille correspondant.\n\n**8.** Lorsqu’ils délivrent des données d’identification personnelle à des unités de portefeuille, les fournisseurs de données d’identification personnelle s’identifient auprès des unités de portefeuille en utilisant leur certificat d’accès de partie utilisatrice de portefeuille ou un autre mécanisme d’authentification conformément à un schéma d’identification électronique notifié au niveau de garantie élevé.\n\n**9.** Avant de délivrer des données d’identification personnelle à une unité de portefeuille, les fournisseurs de données d’identification personnelle authentifient et valident l’attestation d’unité de portefeuille de l’unité de portefeuille et vérifient que l’unité de portefeuille appartient à une solution de portefeuille que le fournisseur de données d’identification personnelle accepte, ou utilisent un autre mécanisme d’authentification conformément à un schéma d’identification électronique notifié au niveau de garantie élevé.",
+      "text_sha256": "9efbc2d363102c12f81ab073d219ffe43648f03e537944f1fed632aad5efd5b3",
+      "md_span": {
+        "start": 4782,
+        "end": 7807
+      },
+      "citations": [
+        {
+          "href": "#E0001",
+          "text": "1"
+        }
+      ]
+    },
+    {
+      "anchor": "art_3a",
+      "provision_id": "eu-eurlex:32024r2977:2026-08-11--a0e859ba2151e8b0f79579be40bcf24e06b3e4f51008588e5e5210e8974f7e35#art_3a",
+      "eli": null,
+      "type": "article",
+      "num": "Article 3 bis",
+      "heading": "Protection du portrait",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "**1.** Outre les exigences en matière d’informations prévues par le règlement (UE) 2016/679, les fournisseurs de portefeuille veillent à ce que les solutions de portefeuille qu’ils fournissent adressent aux utilisateurs de portefeuille, lorsque les parties utilisatrices de portefeuille demandent la divulgation du portrait, un avertissement indiquant que la demande implique le partage de données biométriques et nécessite l’approbation de la divulgation sélective du portrait.\n\n**2.** Pour la mise en œuvre de la divulgation sélective du portrait à une partie utilisatrice de portefeuille, les fournisseurs de portefeuille veillent à ce que les solutions de portefeuille demandent à l’utilisateur de portefeuille de confirmer explicitement et expressément la présentation du portrait.\n\n**3.** Le portrait n’est pas conservé par les parties utilisatrices de portefeuille, à moins que son traitement ne soit nécessaire à des fins d’identification et d’authentification conformément au droit de l’Union en matière de protection des données ou lorsque cela est prévu par le droit de l’Union ou le droit national, conformément au droit de l’Union en matière de protection des données. Il n’est pas transféré à des pays tiers ou à des organisations internationales, à moins que le droit de l’Union en matière de protection des données ne l’autorise.",
+      "text_sha256": "ca5fce4d6a9dff7f981dc0d5de4983e46201be389cf97e3467524de2457f6539",
+      "md_span": {
+        "start": 7874,
+        "end": 9219
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_4",
+      "provision_id": "eu-eurlex:32024r2977:2026-08-11--a0e859ba2151e8b0f79579be40bcf24e06b3e4f51008588e5e5210e8974f7e35#art_4",
+      "eli": null,
+      "type": "article",
+      "num": "Article 4",
+      "heading": "Délivrance d’attestations électroniques d’attributs aux unités de portefeuille",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "**1.** Les attestations électroniques d’attributs délivrées aux unités de portefeuille sont conformes à au moins une des normes figurant à l’annexe II du règlement d’exécution (UE) 2024/2979.\n\n**2.** Les fournisseurs d’attestations électroniques d’attributs s’identifient auprès des unités de portefeuille en utilisant leur certificat d’accès de partie utilisatrice de portefeuille.\n\n**3.** Les fournisseurs d’attestations électroniques d’attributs veillent à ce que les attestations électroniques d’attributs délivrées aux unités de portefeuille contiennent les informations nécessaires à l’authentification et à la validation de ces attestations électroniques d’attributs.",
+      "text_sha256": "500b91c49790a82e3d18b51653b16591c157d1ca89e8acdf164840bb0db3014f",
+      "md_span": {
+        "start": 9337,
+        "end": 10011
+      },
+      "citations": [
+        {
+          "href": "http://publications.europa.eu/resource/celex/32026R1731",
+          "text": "32026R1731: REPLACED"
+        },
+        {
+          "href": "http://publications.europa.eu/resource/celex/32024R2977",
+          "text": "32024R2977"
+        }
+      ]
+    },
+    {
+      "anchor": "art_5",
+      "provision_id": "eu-eurlex:32024r2977:2026-08-11--a0e859ba2151e8b0f79579be40bcf24e06b3e4f51008588e5e5210e8974f7e35#art_5",
+      "eli": null,
+      "type": "article",
+      "num": "Article 5",
+      "heading": "Révocation de données d’identification personnelle",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "**1.** Les fournisseurs de données d’identification personnelle délivrées à une unité de portefeuille disposent de règles écrites et accessibles au public concernant la gestion du statut de validité, y compris, le cas échéant, les conditions dans lesquelles ces données d’identification personnelle peuvent être révoquées sans délai.\n\n**2.** Seuls les fournisseurs de données d’identification personnelle ou d’attestations électroniques d’attributs peuvent révoquer les données d’identification personnelle ou les attestations électroniques d’attributs qu’ils ont délivrées.\n\n**3.** Lorsque les fournisseurs de données d’identification personnelle ont révoqué des données d’identification personnelle, ils en informent, par des canaux spécialisés et sécurisés, les utilisateurs de portefeuilles faisant l’objet de ces données d’identification personnelle dans un délai de 24 heures à compter de la révocation en indiquant les motifs de la révocation. Cela doit se faire de manière concise et facilement accessible, dans un langage clair et simple.\n\n**4.** Les fournisseurs de données d’identification personnelle sont tenus de révoquer les données d’identification personnelle délivrées à des unités de portefeuille dans chacun des cas suivants:a) à la demande explicite de l’utilisateur du portefeuille à l’unité de portefeuille duquel les données d’identification personnelle ou l’attestation électronique d’attributs ont été délivrées;▼M1b) lorsque l’attestation d’unité de portefeuille de l’unité de portefeuille à laquelle les données d’identification personnelle ont été délivrées a été révoquée;▼Bc) dans d’autres situations déterminées par les fournisseurs de données d’identification personnelle ou d’attestations électroniques d’attributs dans leurs règles visées au paragraphe 1.\n\n**5.** Les fournisseurs de données d’identification personnelle délivrées à une unité de portefeuille veillent à ce que les révocations ne puissent pas être annulées.\n\n**6.** Les données d’identification personnelle révoquées restent accessibles aussi longtemps que le droit de l’Union ou le droit national l’exige.\n\n**7.** Lorsque les fournisseurs de données d’identification personnelle révoquent les données d’identification personnelle délivrées aux unités de portefeuille, ils rendent public le statut de validité des données d’identification personnelle qu’ils délivrent, dans le respect de la vie privée, et indiquent l’emplacement de cette information dans les données d’identification personnelle.\n\n**8.** Les fournisseurs de données d’identification personnelle mettent en place des techniques de protection de la vie privée qui garantissent la non-associabilité, lorsque l’attestation d’attributs n’exige pas l’identification de l’utilisateur.",
+      "text_sha256": "fa5762969216247c659c7c5775093973fbea7d70d626ae825490cbc350b41fee",
+      "md_span": {
+        "start": 10101,
+        "end": 12847
+      },
+      "citations": [
+        {
+          "href": "http://publications.europa.eu/resource/celex/32026R1731",
+          "text": "▼M1"
+        },
+        {
+          "href": "http://publications.europa.eu/resource/celex/32024R2977",
+          "text": "▼B"
+        }
+      ]
+    },
+    {
+      "anchor": "art_6",
+      "provision_id": "eu-eurlex:32024r2977:2026-08-11--a0e859ba2151e8b0f79579be40bcf24e06b3e4f51008588e5e5210e8974f7e35#art_6",
+      "eli": null,
+      "type": "article",
+      "num": "Article 6",
+      "heading": "Entrée en vigueur",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Le présent règlement entre en vigueur le vingtième jour suivant celui de sa publication au *Journal officiel de l’Union européenne*.",
+      "text_sha256": "11e55623deccd0fbb1a3cfd909fd2ec5b0ad4daa65cbb9de721456e10cc3ffc1",
+      "md_span": {
+        "start": 12904,
+        "end": 13036
+      },
+      "citations": []
+    }
+  ],
+  "notes": [
+    "boundaries: publisher eli-subdivision fragment identifiers (structural-in-presentation)"
+  ]
+}
