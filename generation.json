@@ -4,10 +4,10 @@
     "eu-eurlex": {
       "collection": "eu-eurlex",
       "corpus_repository": "lex-corpus-eu-eurlex",
-      "corpus_commit": "b1a45affc79e5bd39ef62b6d035550687cc2f4e0",
-      "corpus_manifest_sha256": "95249ed021671a4eff7af27454c886bb3d54af5802679a0e8d7f1cdfb2452fb4",
-      "ingester_code_commit": "03758c6843b1d19abbbd85bf89c76bc639ccf8b0",
-      "deriver_code_commit": "03758c6843b1d19abbbd85bf89c76bc639ccf8b0",
+      "corpus_commit": "6bf67cd380713774788270df057457739be76f85",
+      "corpus_manifest_sha256": "f621ef496104f53c8e91cb00d1562b34614c3e03eb681b2f6a65e748e871ef65",
+      "ingester_code_commit": "563c3fd711a7beb8040a08a8a8bd436e6982567b",
+      "deriver_code_commit": "563c3fd711a7beb8040a08a8a8bd436e6982567b",
       "deriver_tree_id": "69f0bef039a569f897e7ea81cefa6850d65606db",
       "profiles": [
         "html-eu-tolerant/1",
