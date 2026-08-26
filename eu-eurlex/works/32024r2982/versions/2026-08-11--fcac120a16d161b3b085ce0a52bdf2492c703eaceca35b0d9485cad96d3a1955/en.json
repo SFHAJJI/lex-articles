@@ -1,0 +1,210 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "eu-eurlex:32024r2982:2026-08-11--fcac120a16d161b3b085ce0a52bdf2492c703eaceca35b0d9485cad96d3a1955",
+  "language": "en",
+  "title": "Commission Implementing Regulation (EU) 2024/2982 of 28\u00A0November 2024 laying down rules for the application of Regulation (EU) No\u00A0910/2014",
+  "valid_from": "2026-08-11",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-eu-eurlex",
+    "path": "works/32024r2982/versions/2026-08-11--fcac120a16d161b3b085ce0a52bdf2492c703eaceca35b0d9485cad96d3a1955/en.html",
+    "sha256": "4b1fbb9968023437e7a4d5c9ffebb7a01309663556ccb140f462e4c339857eda",
+    "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02024R2982-20260811"
+  },
+  "generator": {
+    "profile": "xhtml-eu/1",
+    "tool": "lex derive"
+  },
+  "license": "EU reuse-with-attribution (Commission Decision 2011/833/EU)",
+  "attribution": "© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect",
+  "provisions": [
+    {
+      "anchor": "art_1",
+      "provision_id": "eu-eurlex:32024r2982:2026-08-11--fcac120a16d161b3b085ce0a52bdf2492c703eaceca35b0d9485cad96d3a1955#art_1",
+      "eli": null,
+      "type": "article",
+      "num": "Article 1",
+      "heading": "Subject matter and scope",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "This Regulation lays down rules on the protocols and interfaces of wallet solutions for:\n\n(1) the issuance of person identification data and electronic attestations of attributes to wallet units;\n\n(2) the presentation of attributes of person identification data and electronic attestations of attributes to wallet-relying parties;\n\n(3) the communication of data erasure requests to wallet-relying parties;\n\n(4) the reporting of wallet-relying parties to supervisory authorities established under Article 51 of Regulation (EU) 2016/679; to be updated on a regular basis to keep in line with technology and standards developments and with the work carried out on the basis of Recommendation (EU) 2021/946, and in particular the Architecture and Reference Framework.",
+      "text_sha256": "206f40abd8b1b206e356f855f4987a75a86913d7cf85c97188e9281b548ea4d4",
+      "md_span": {
+        "start": 789,
+        "end": 1552
+      },
+      "citations": [
+        {
+          "href": "http://publications.europa.eu/resource/celex/32026R1731",
+          "text": "32026R1731: REPLACED"
+        },
+        {
+          "href": "http://publications.europa.eu/resource/celex/32024R2982",
+          "text": "32024R2982"
+        }
+      ]
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "eu-eurlex:32024r2982:2026-08-11--fcac120a16d161b3b085ce0a52bdf2492c703eaceca35b0d9485cad96d3a1955#art_2",
+      "eli": null,
+      "type": "article",
+      "num": "Article 2",
+      "heading": "Definitions",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "For the purpose of this Regulation, the following definitions apply:\n\n(1) ‘wallet-relying party’ means a relying party that intends to rely upon wallet units for the provision of public or private services by means of digital interaction;\n\n(2) ‘wallet user’ means a user who is in control of the wallet unit;\n\n(3) ‘wallet solution’ means a combination of software, hardware, services, settings, and configurations, including wallet instances, one or more wallet secure cryptographic applications and one or more wallet secure cryptographic devices;\n\n(4) ‘wallet unit’ means a unique configuration of a wallet solution that includes wallet instances, wallet secure cryptographic applications and wallet secure cryptographic devices provided by a wallet provider to an individual wallet user;\n\n(5) ‘wallet provider’ means a natural or legal person who provides wallet solutions;\n\n(6) ‘wallet instance’ means the application installed and configured on a wallet user’s device or environment, which is part of a wallet unit, and that the wallet user uses to interact with the wallet unit;\n\n(7) ‘wallet secure cryptographic application’ means an application that manages critical assets by being linked to and using the cryptographic and non-cryptographic functions provided by the wallet secure cryptographic device;\n\n(8) ‘wallet secure cryptographic device’ means a tamper-resistant device that provides an environment that is linked to and used by the wallet secure cryptographic application to protect critical assets and provide cryptographic functions for the secure execution of critical operations;\n\n(9) ‘critical assets’ means assets within or in relation to a wallet unit of such extraordinary importance that where their availability, confidentiality or integrity are compromised, this would have a very serious, debilitating effect on the ability to rely on the wallet unit;\n\n(10) ‘wallet-relying party access certificate’ means a certificate for electronic seals or signatures authenticating and validating the wallet-relying party issued by a provider of wallet-relying party access certificates;\n\n(11) ‘provider of wallet-relying party access certificates’ means a natural or legal person mandated by a Member State to issue relying party access certificates to wallet-relying parties registered in that Member State;\n\n(12) ‘wallet unit attestation’ means a data object that describes the components of the wallet unit or allows authentication and validation of those components;\n\n(13) ‘embedded disclosure policy’ means a set of rules, embedded in an electronic attestation of attributes by its provider, that indicates the conditions that a wallet-relying party has to meet to access the electronic attestation of attributes;\n\n(14) ‘wallet-relying party registration certificate’ means a data object that indicates the attributes the relying party has registered to intend to request from users;\n\n(15) ‘provider of person identification data’ means a natural or legal person responsible for issuing and revoking the person identification data and ensuring that the person identification data of a user is cryptographically bound to a wallet unit;\n\n(16) ‘cryptographic binding’ means the method to link person identification data or electronic attestations of attributes to wallet units through cryptographic means.",
+      "text_sha256": "558f1bc43ee48decbdbe0615b09843f20aed7ea3ca0cf2691cd24d8787e659c9",
+      "md_span": {
+        "start": 1603,
+        "end": 4929
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_3",
+      "provision_id": "eu-eurlex:32024r2982:2026-08-11--fcac120a16d161b3b085ce0a52bdf2492c703eaceca35b0d9485cad96d3a1955#art_3",
+      "eli": null,
+      "type": "article",
+      "num": "Article 3",
+      "heading": "General provisions",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Regarding the protocols and interfaces referred to in Articles 4 and 5, wallet providers shall ensure that wallet units:\n\n(1) authenticate and validate the wallet-relying party access certificates where interacting with wallet-relying parties without delegating execution of these processes to an operating system browser or other intermediary application;\n\n(3) authenticate and validate requests made using wallet-relying party access certificates;\n\n(4) authenticate and validate the wallet-relying party registration certificate;\n\n(5) display to wallet users information contained in the wallet-relying party access certificates;\n\n(6) display to wallet users, where applicable, the attributes that wallet users are requested to present;\n\n(7) display to wallet users, where applicable, information contained in the wallet-relying party registration certificate;\n\n(9) do not present any requested attributes to wallet-relying parties until the following steps have been completed: (a) verification that embedded disclosure policies have been processed within the wallet unit in accordance with Article 10 of Implementing Regulation (EU) 2024/2979; (b) verification that wallet users have partially or in full approved the presentation;\n\n(10) enable privacy preserving techniques which ensure unlinkability where the electronic attestations of attributes do not require the identification of the wallet user, when presenting attestations or person identification data across different wallet-relying parties.",
+      "text_sha256": "c583668bc20b497cd0184de2ebd1ea4bac587b727d1a00adb55b51f1a51e333a",
+      "md_span": {
+        "start": 4987,
+        "end": 6494
+      },
+      "citations": [
+        {
+          "href": "http://publications.europa.eu/resource/celex/32026R1731",
+          "text": "32026R1731: REPLACED"
+        },
+        {
+          "href": "http://publications.europa.eu/resource/celex/32026R1731",
+          "text": "32026R1731: DELETED"
+        },
+        {
+          "href": "http://publications.europa.eu/resource/celex/32024R2982",
+          "text": "32024R2982"
+        }
+      ]
+    },
+    {
+      "anchor": "art_4",
+      "provision_id": "eu-eurlex:32024r2982:2026-08-11--fcac120a16d161b3b085ce0a52bdf2492c703eaceca35b0d9485cad96d3a1955#art_4",
+      "eli": null,
+      "type": "article",
+      "num": "Article 4",
+      "heading": "Issuance of person identification data and electronic attestations of attributes to wallet units",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "**1.** Wallet providers shall ensure that wallet solutions support the protocols and interfaces set out in Annex I for the issuance of person identification data and electronic attestations of attributes to wallet units.\n\n**2.** Wallet providers shall ensure that wallet units request issuance of person identification data and electronic attestations of attributes only from parties having an authentic and valid wallet-relying party access certificate attesting them as:(a) a provider of person identification data;(b) a provider of a qualified electronic attestation of attributes;(c) a provider of an electronic attestation of attributes issued by or on behalf of a public sector body responsible for an authentic source; or(d) a provider of non-qualified electronic attestations of attributes.\n\n**3.** In relation to the issuance of person identification data and electronic attestations of attributes to a wallet unit, wallet providers shall ensure that the following requirements are complied with:(a) where wallet users use their wallet unit to request the issuance of person identification data or of electronic attestations of attributes from providers of person identification data or providers of electronic attestations of attributes that enable issuance of person identification data or electronic attestations in more than one format, the wallet unit shall request it in all formats referred to in Article 8 of Implementing Regulation (EU) 2024/2979 laying down rules for the application of Regulation (EU) No 910/2014 as regards the integrity and core functionalities of European Digital Identity Wallets;(b) where wallet users use their wallet unit to interact with providers of person identification data or electronic attestations of attributes, wallet units shall enable authentication and validation of the wallet unit components by presenting the wallet unit attestations to those providers upon their request;(c) wallet solutions shall support mechanisms that enable providers of person identification data to verify issuance, delivery and activation in compliance with assurance level high requirements set out in Commission Implementing Regulation (EU) 2015/1502 (1);(d) wallet units shall verify the authenticity and validity of person identification data and electronic attestations of attributes.",
+      "text_sha256": "97a616e2a7dbb52fbbfaad7b9ff7ee24f017ebbd6543dd6124412d3e289f777f",
+      "md_span": {
+        "start": 6630,
+        "end": 8954
+      },
+      "citations": [
+        {
+          "href": "http://publications.europa.eu/resource/celex/32026R1731",
+          "text": "32026R1731: REPLACED"
+        },
+        {
+          "href": "http://publications.europa.eu/resource/celex/32024R2982",
+          "text": "32024R2982"
+        },
+        {
+          "href": "#E0001",
+          "text": "1"
+        }
+      ]
+    },
+    {
+      "anchor": "art_5",
+      "provision_id": "eu-eurlex:32024r2982:2026-08-11--fcac120a16d161b3b085ce0a52bdf2492c703eaceca35b0d9485cad96d3a1955#art_5",
+      "eli": null,
+      "type": "article",
+      "num": "Article 5",
+      "heading": "Presentation of attributes to wallet-relying parties",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "**1.** Wallet providers shall ensure that wallet solutions support protocols and interfaces for the presentation of attributes to wallet-relying parties, remotely, and, where appropriate, in proximity, in accordance with the technical specifications set out in Annex II.\n\n**2.** Wallet providers shall ensure that, at the request of users, wallet units respond to successfully authenticated and validated requests from wallet-relying parties referred to in Article 3, in accordance with the technical specifications set out in Annex II.\n\n**3.** Wallet providers shall ensure that wallet units support proving the possession of private keys corresponding to public keys used in cryptographic bindings.\n\n**4.** Wallet providers shall ensure that wallet solutions support the selective disclosure of attributes of personal identification data and of electronic attestations of attributes.",
+      "text_sha256": "22144f242f69544b0bebc683a93b1214fc4285f96e51a783bff036085eb35669",
+      "md_span": {
+        "start": 9046,
+        "end": 9931
+      },
+      "citations": [
+        {
+          "href": "http://publications.europa.eu/resource/celex/32026R1731",
+          "text": "32026R1731: REPLACED"
+        },
+        {
+          "href": "http://publications.europa.eu/resource/celex/32024R2982",
+          "text": "32024R2982"
+        },
+        {
+          "href": "http://publications.europa.eu/resource/celex/32026R1731",
+          "text": "32026R1731: DELETED"
+        }
+      ]
+    },
+    {
+      "anchor": "art_6",
+      "provision_id": "eu-eurlex:32024r2982:2026-08-11--fcac120a16d161b3b085ce0a52bdf2492c703eaceca35b0d9485cad96d3a1955#art_6",
+      "eli": null,
+      "type": "article",
+      "num": "Article 6",
+      "heading": "Communication of data erasure requests",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "**1.** Wallet providers shall ensure that wallet units support protocols and interfaces allowing wallet users to request from wallet-relying parties, with whom they have interacted through those wallet units, the erasure of their personal data provided through those wallet units, in accordance with Article 17 of Regulation (EU) 2016/679.\n\n**2.** The protocols and interfaces referred to in paragraph 1 shall allow wallet users to select the wallet-relying parties to which data erasure requests are to be submitted.\n\n**3.** Wallet units shall display to the wallet user previously submitted data erasure requests made through those wallet units.",
+      "text_sha256": "f26b122db192ff437daf2c4a2e2d9ad943dd4de4af925fd1861e241f7d6a8a88",
+      "md_span": {
+        "start": 10009,
+        "end": 10656
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_7",
+      "provision_id": "eu-eurlex:32024r2982:2026-08-11--fcac120a16d161b3b085ce0a52bdf2492c703eaceca35b0d9485cad96d3a1955#art_7",
+      "eli": null,
+      "type": "article",
+      "num": "Article 7",
+      "heading": "Reporting of wallet-relying parties to supervisory authorities established under Article 51 of Regulation (EU) 2016/679",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "**1.** Wallet providers shall ensure that wallet units allow wallet users to easily report wallet-relying parties to supervisory authorities established under Article 51 of Regulation (EU) 2016/679.\n\n**2.** Wallet providers shall implement the protocols and interfaces for reporting wallet-relying parties in compliance with national procedural laws of the Member States.\n\n**3.** Wallet providers shall ensure that wallet units allow wallet users to substantiate the reports, including by attaching relevant information to identify the wallet-relying parties, and the wallet users’ claims in machine-readable format.",
+      "text_sha256": "17d25b1fe665b11fdc0751aae2b6622cff3261eb7a64ed82d9b857a4b912c484",
+      "md_span": {
+        "start": 10815,
+        "end": 11431
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_8",
+      "provision_id": "eu-eurlex:32024r2982:2026-08-11--fcac120a16d161b3b085ce0a52bdf2492c703eaceca35b0d9485cad96d3a1955#art_8",
+      "eli": null,
+      "type": "article",
+      "num": "Article 8",
+      "heading": "Entry into force",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "This Regulation shall enter into force on the twentieth day following that of its publication in the Official Journal of the European Union.\n\nArticle 3(4) shall apply from 11 August 2028.\n\nThis Regulation shall be binding in its entirety and directly applicable in all Member States.",
+      "text_sha256": "6261bf7c08adf27c42e5c14546947418e7edd0189bffbed6558ee0de77141d32",
+      "md_span": {
+        "start": 11487,
+        "end": 11770
+      },
+      "citations": []
+    }
+  ],
+  "notes": [
+    "boundaries: publisher eli-subdivision fragment identifiers (structural-in-presentation)"
+  ]
+}

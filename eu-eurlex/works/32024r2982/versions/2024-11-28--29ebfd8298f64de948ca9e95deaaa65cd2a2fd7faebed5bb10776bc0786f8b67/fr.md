@@ -2,7 +2,7 @@
 lex_id: 'eu-eurlex:32024r2982:2024-11-28--29ebfd8298f64de948ca9e95deaaa65cd2a2fd7faebed5bb10776bc0786f8b67'
 title: 'Commission Implementing Regulation (EU) 2024/2982 of 28 November 2024 laying down rules for the application of Regulation (EU) No 910/2014'
 valid_from: '2024-11-28'
-valid_to: 'open'
+valid_to: '2026-08-10'
 source: 'https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32024R2982'
 source_sha256: '45abc3829002498e0c68f2d715eb7dc5209de32032b7b49cfcbe9f9fed9d54db'
 license: 'EU reuse-with-attribution (Commission Decision 2011/833/EU)'

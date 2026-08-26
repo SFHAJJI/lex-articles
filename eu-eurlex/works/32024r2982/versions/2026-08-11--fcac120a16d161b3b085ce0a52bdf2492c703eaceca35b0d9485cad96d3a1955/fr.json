@@ -1,0 +1,210 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "eu-eurlex:32024r2982:2026-08-11--fcac120a16d161b3b085ce0a52bdf2492c703eaceca35b0d9485cad96d3a1955",
+  "language": "fr",
+  "title": "Commission Implementing Regulation (EU) 2024/2982 of 28\u00A0November 2024 laying down rules for the application of Regulation (EU) No\u00A0910/2014",
+  "valid_from": "2026-08-11",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-eu-eurlex",
+    "path": "works/32024r2982/versions/2026-08-11--fcac120a16d161b3b085ce0a52bdf2492c703eaceca35b0d9485cad96d3a1955/fr.html",
+    "sha256": "906a7fb2ac2303e1327b94d28b9fa2236580b1129ab7525381ff246e5eef5e34",
+    "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:02024R2982-20260811"
+  },
+  "generator": {
+    "profile": "xhtml-eu/1",
+    "tool": "lex derive"
+  },
+  "license": "EU reuse-with-attribution (Commission Decision 2011/833/EU)",
+  "attribution": "© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect",
+  "provisions": [
+    {
+      "anchor": "art_1",
+      "provision_id": "eu-eurlex:32024r2982:2026-08-11--fcac120a16d161b3b085ce0a52bdf2492c703eaceca35b0d9485cad96d3a1955#art_1",
+      "eli": null,
+      "type": "article",
+      "num": "Article premier",
+      "heading": "Objet et champ d’application",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Le présent règlement fixe des règles relatives aux protocoles et aux interfaces des solutions de portefeuille concernant:\n\n1) la délivrance de données d’identification personnelle et d’attestations électroniques d’attributs aux unités de portefeuille;\n\n2) la présentation des attributs des données d’identification personnelle et des attestations électroniques d’attributs aux parties utilisatrices de portefeuille;\n\n3) la communication des demandes d’effacement de données aux parties utilisatrices de portefeuille;\n\n4) le signalement des parties utilisatrices de portefeuille aux autorités de contrôle instituées en vertu de l’article 51 du règlement (UE) 2016/679. Le présent règlement est mis à jour régulièrement pour tenir compte de l’évolution des technologies et des normes ainsi que des travaux réalisés sur la base de la recommandation (UE) 2021/946, et en particulier sur l’architecture et le cadre de référence.",
+      "text_sha256": "24b193201424c68dc74b3512bbc1dc44a8a66dc0e5194a6d42aadf5dd5b878a5",
+      "md_span": {
+        "start": 799,
+        "end": 1722
+      },
+      "citations": [
+        {
+          "href": "http://publications.europa.eu/resource/celex/32026R1731",
+          "text": "32026R1731: REPLACED"
+        },
+        {
+          "href": "http://publications.europa.eu/resource/celex/32024R2982",
+          "text": "32024R2982"
+        }
+      ]
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "eu-eurlex:32024r2982:2026-08-11--fcac120a16d161b3b085ce0a52bdf2492c703eaceca35b0d9485cad96d3a1955#art_2",
+      "eli": null,
+      "type": "article",
+      "num": "Article 2",
+      "heading": "Définitions",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Aux fins du présent règlement, on entend par:\n\n1) «partie utilisatrice de portefeuille»: une partie utilisatrice qui a l’intention de se fier à des unités de portefeuille pour la fourniture de services publics ou privés au moyen d’une interaction numérique;\n\n2) «utilisateur de portefeuille»: un utilisateur qui contrôle l’unité de portefeuille;\n\n3) «solution de portefeuille»: une combinaison de logiciels, de matériel, de services, de paramètres et de configurations, y compris des instances de portefeuille, une ou plusieurs applications cryptographiques sécurisées de portefeuille et un ou plusieurs dispositifs cryptographiques sécurisés de portefeuille;\n\n4) «unité de portefeuille»: une configuration unique d’une solution de portefeuille comprenant des instances de portefeuille, des applications cryptographiques sécurisées de portefeuille et des dispositifs cryptographiques sécurisés de portefeuille, fournie par un fournisseur de portefeuille à un utilisateur de portefeuille donné;\n\n5) «fournisseur de portefeuille»: une personne physique ou morale qui fournit des solutions de portefeuille;\n\n6) «instance de portefeuille»: l’application installée et configurée sur l’appareil ou dans l’environnement d’un utilisateur de portefeuille, qui fait partie d’une unité de portefeuille et dont l’utilisateur de portefeuille se sert pour interagir avec l’unité de portefeuille;\n\n7) «application cryptographique sécurisée de portefeuille»: une application qui gère des actifs critiques en étant liée aux fonctions cryptographiques et non cryptographiques fournies par le dispositif cryptographique sécurisé de portefeuille et en utilisant ces fonctions;\n\n8) «dispositif cryptographique sécurisé de portefeuille»: un dispositif inviolable qui fournit un environnement lié à l’application cryptographique sécurisée de portefeuille et utilisé par celle-ci pour protéger les actifs critiques et fournir des fonctions cryptographiques pour l’exécution sécurisée d’opérations critiques;\n\n9) «actifs critiques»: les actifs se trouvant à l’intérieur d’une unité de portefeuille ou en rapport avec celle-ci et dont l’importance est tellement exceptionnelle que la capacité de se fier à l’unité de portefeuille serait très sérieusement affaiblie si leur disponibilité, leur confidentialité ou leur intégrité étaient compromises;\n\n10) «certificat d’accès de partie utilisatrice de portefeuille»: un certificat de cachet électronique ou de signature électronique qui authentifie et valide la partie utilisatrice de portefeuille et qui est délivré par un fournisseur de certificats d’accès de partie utilisatrice de portefeuille;\n\n11) «fournisseur de certificats d’accès de partie utilisatrice de portefeuille»: une personne physique ou morale mandatée par un État membre pour délivrer des certificats d’accès de partie utilisatrice aux parties utilisatrices de portefeuille enregistrées dans cet État membre;\n\n12) «attestation d’unité de portefeuille»: un objet de données qui décrit les composants de l’unité de portefeuille ou permet l’authentification et la validation de ces composants;\n\n13) «politique de divulgation intégrée»: un ensemble de règles, intégrées dans une attestation électronique d’attributs par son fournisseur, qui indique les conditions qu’une partie utilisatrice de portefeuille doit remplir pour accéder à l’attestation électronique d’attributs;\n\n14) «certificat d’enregistrement de partie utilisatrice de portefeuille»: un objet de données qui indique les attributs pour lesquels la partie utilisatrice a enregistré son intention de les demander aux utilisateurs;\n\n15) «fournisseur de données d’identification personnelle»: une personne physique ou morale chargée de délivrer et de révoquer les données d’identification personnelle et de veiller à ce que les données d’identification personnelle d’un utilisateur soient liées de manière cryptographique à une unité de portefeuille;\n\n16) «liaison cryptographique»: la méthode permettant de lier les données d’identification personnelle ou les attestations électroniques d’attributs aux unités de portefeuille à l’aide de moyens cryptographiques.",
+      "text_sha256": "1f5db9905075db3c0ae91d6a9751f6215b853f70d5a78c2b370292663bd3938c",
+      "md_span": {
+        "start": 1773,
+        "end": 5884
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_3",
+      "provision_id": "eu-eurlex:32024r2982:2026-08-11--fcac120a16d161b3b085ce0a52bdf2492c703eaceca35b0d9485cad96d3a1955#art_3",
+      "eli": null,
+      "type": "article",
+      "num": "Article 3",
+      "heading": "Dispositions générales",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Concernant les protocoles et les interfaces visés aux articles 4 et 5, les fournisseurs de portefeuille veillent à ce que les unités de portefeuille:\n\n1) authentifient et valident les certificats d’accès de partie utilisatrice de portefeuille lors d’interactions avec des parties utilisatrices de portefeuille sans déléguer l’exécution de ces processus à un navigateur du système d’exploitation ou à une autre application intermédiaire;\n\n3) authentifient et valident les demandes introduites au moyen de certificats d’accès de partie utilisatrice de portefeuille;\n\n4) authentifient et valident le certificat d’enregistrement de partie utilisatrice de portefeuille;\n\n5) affichent aux utilisateurs de portefeuille les informations contenues dans les certificats d’accès de partie utilisatrice de portefeuille;\n\n6) affichent aux utilisateurs de portefeuille, le cas échéant, les attributs que ceux-ci sont tenus de présenter;\n\n7) affichent aux utilisateurs de portefeuille, le cas échéant, les informations contenues dans le certificat d’enregistrement de partie utilisatrice de portefeuille;\n\n9) ne présentent aucun attribut demandé aux parties utilisatrices de portefeuille tant que les conditions suivantes ne sont pas remplies: a) il a été vérifié que les politiques de divulgation intégrées ont été traitées au sein de l’unité de portefeuille conformément à l’article 10 du règlement d’exécution (UE) 2024/2979; b) il a été vérifié que les utilisateurs de portefeuille ont approuvé partiellement ou intégralement la présentation;\n\n10) permettent des techniques de protection de la vie privée qui garantissent la non-associabilité lorsque les attestations électroniques d’attributs n’exigent pas l’identification de l’utilisateur de portefeuille au moment de la présentation d’attestations ou de données d’identification personnelle entre différentes parties utilisatrices de portefeuille.",
+      "text_sha256": "98e746e9b7134da9d2564946e48ec118ca35a227c771805fb4abac17f1a4345d",
+      "md_span": {
+        "start": 5946,
+        "end": 7836
+      },
+      "citations": [
+        {
+          "href": "http://publications.europa.eu/resource/celex/32026R1731",
+          "text": "32026R1731: REPLACED"
+        },
+        {
+          "href": "http://publications.europa.eu/resource/celex/32026R1731",
+          "text": "32026R1731: DELETED"
+        },
+        {
+          "href": "http://publications.europa.eu/resource/celex/32024R2982",
+          "text": "32024R2982"
+        }
+      ]
+    },
+    {
+      "anchor": "art_4",
+      "provision_id": "eu-eurlex:32024r2982:2026-08-11--fcac120a16d161b3b085ce0a52bdf2492c703eaceca35b0d9485cad96d3a1955#art_4",
+      "eli": null,
+      "type": "article",
+      "num": "Article 4",
+      "heading": "Délivrance de données d’identification personnelle et d’attestations électroniques d’attributs aux unités de portefeuille",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "**1.** Les fournisseurs de portefeuille veillent à ce que les solutions de portefeuille prennent en charge les protocoles et les interfaces figurant à l’annexe I pour la délivrance de données d’identification personnelle et d’attestations électroniques d’attributs aux unités de portefeuille.\n\n**2.** Les fournisseurs de portefeuille veillent à ce que les unités de portefeuille ne demandent la délivrance de données d’identification personnelle et d’attestations électroniques d’attributs qu’à des parties disposant d’un certificat d’accès de partie utilisatrice de portefeuille authentique et valide attestant qu’elles sont:a) un fournisseur de données d’identification personnelle;b) un fournisseur d’une attestation électronique d’attributs qualifiée;c) un fournisseur d’une attestation électronique d’attributs délivrée par un organisme du secteur public responsable d’une source authentique ou pour son compte; oud) un fournisseur d’attestations électroniques d’attributs non qualifiées.\n\n**3.** En ce qui concerne la délivrance de données d’identification personnelle et d’attestations électroniques d’attributs à une unité de portefeuille, les fournisseurs de portefeuille veillent à ce que les exigences suivantes soient respectées:a) lorsque les utilisateurs de portefeuille se servent de leur unité de portefeuille pour demander la délivrance de données d’identification personnelle ou d’attestations électroniques d’attributs à des fournisseurs de données d’identification personnelle ou à des fournisseurs d’attestations électroniques d’attributs qui permettent la délivrance de données d’identification personnelle ou d’attestations électroniques dans plusieurs formats, l’unité de portefeuille en fait la demande dans tous les formats visés à l’article 8 du règlement d’exécution (UE) 2024/2979 portant modalités d’application du règlement (UE) no 910/2014 en ce qui concerne l’intégrité et les fonctionnalités essentielles des portefeuilles européens d’identité numérique;b) lorsque les utilisateurs de portefeuille se servent de leur unité de portefeuille pour interagir avec des fournisseurs de données d’identification personnelle ou des fournisseurs d’attestations électroniques d’attributs, les unités de portefeuille permettent l’authentification et la validation des composants de l’unité de portefeuille en présentant les attestations d’unité de portefeuille à ces fournisseurs à leur demande;c) les solutions de portefeuille prennent en charge les mécanismes qui permettent aux fournisseurs de données d’identification personnelle de vérifier la délivrance, la mise à disposition et l’activation conformément aux exigences en matière de niveau de garantie élevé énoncées dans le règlement d’exécution (UE) 2015/1502 de la Commission (1);d) les unités de portefeuille vérifient l’authenticité et la validité des données d’identification personnelle et des attestations électroniques d’attributs.",
+      "text_sha256": "9a1e6e66fff377c87987650fb08b94f53ad589e9a20204188d89d57c0fd9c271",
+      "md_span": {
+        "start": 7997,
+        "end": 10916
+      },
+      "citations": [
+        {
+          "href": "http://publications.europa.eu/resource/celex/32026R1731",
+          "text": "32026R1731: REPLACED"
+        },
+        {
+          "href": "http://publications.europa.eu/resource/celex/32024R2982",
+          "text": "32024R2982"
+        },
+        {
+          "href": "#E0001",
+          "text": "1"
+        }
+      ]
+    },
+    {
+      "anchor": "art_5",
+      "provision_id": "eu-eurlex:32024r2982:2026-08-11--fcac120a16d161b3b085ce0a52bdf2492c703eaceca35b0d9485cad96d3a1955#art_5",
+      "eli": null,
+      "type": "article",
+      "num": "Article 5",
+      "heading": "Présentation d’attributs aux parties utilisatrices de portefeuille",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "**1.** Les fournisseurs de portefeuille veillent à ce que les solutions de portefeuille prennent en charge les protocoles et les interfaces permettant la présentation d’attributs aux parties utilisatrices de portefeuille, à distance et, le cas échéant, à proximité, conformément aux spécifications techniques figurant à l’annexe II.\n\n**2.** Les fournisseurs de portefeuille veillent à ce que, à la demande des utilisateurs, les unités de portefeuille répondent aux demandes dûment authentifiées et validées des parties utilisatrices de portefeuille mentionnées à l’article 3, conformément aux spécifications techniques figurant à l’annexe II.\n\n**3.** Les fournisseurs de portefeuille veillent à ce que les unités de portefeuille permettent d’apporter la preuve qu’elles détiennent les clés privées correspondant aux clés publiques utilisées dans les liaisons cryptographiques.\n\n**4.** Les fournisseurs de portefeuille veillent à ce que les solutions de portefeuille prennent en charge la divulgation sélective d’attributs de données d’identification personnelle et d’attestations électroniques d’attributs.",
+      "text_sha256": "568a41d765aa843bf7050775a627110bd652504841832a688189dd8238398c97",
+      "md_span": {
+        "start": 11022,
+        "end": 12128
+      },
+      "citations": [
+        {
+          "href": "http://publications.europa.eu/resource/celex/32026R1731",
+          "text": "32026R1731: REPLACED"
+        },
+        {
+          "href": "http://publications.europa.eu/resource/celex/32024R2982",
+          "text": "32024R2982"
+        },
+        {
+          "href": "http://publications.europa.eu/resource/celex/32026R1731",
+          "text": "32026R1731: DELETED"
+        }
+      ]
+    },
+    {
+      "anchor": "art_6",
+      "provision_id": "eu-eurlex:32024r2982:2026-08-11--fcac120a16d161b3b085ce0a52bdf2492c703eaceca35b0d9485cad96d3a1955#art_6",
+      "eli": null,
+      "type": "article",
+      "num": "Article 6",
+      "heading": "Communication des demandes d’effacement de données",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "**1.** Les fournisseurs de portefeuille veillent à ce que les unités de portefeuille prennent en charge les protocoles et les interfaces permettant aux utilisateurs de portefeuille de demander aux parties utilisatrices de portefeuille avec lesquelles ils ont interagi au moyen de ces unités de portefeuille d’effacer leurs données à caractère personnel fournies par l’intermédiaire de ces unités de portefeuille, conformément à l’article 17 du règlement (UE) 2016/679.\n\n**2.** Les protocoles et les interfaces visés au paragraphe 1 permettent aux utilisateurs de portefeuille de sélectionner les parties utilisatrices de portefeuille à qui doivent être présentées les demandes d’effacement de données.\n\n**3.** Les unités de portefeuille permettent à l’utilisateur de portefeuille de visualiser les demandes d’effacement de données précédemment soumises par leur intermédiaire.",
+      "text_sha256": "da258dd779edd3e450c494ca293a831e6f794838db0e7e013e2364f6721e4f24",
+      "md_span": {
+        "start": 12218,
+        "end": 13094
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_7",
+      "provision_id": "eu-eurlex:32024r2982:2026-08-11--fcac120a16d161b3b085ce0a52bdf2492c703eaceca35b0d9485cad96d3a1955#art_7",
+      "eli": null,
+      "type": "article",
+      "num": "Article 7",
+      "heading": "Signalement des parties utilisatrices de portefeuille aux autorités de contrôle instituées en vertu de l’article 51 du règlement (UE) 2016/679",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "**1.** Les fournisseurs de portefeuille veillent à ce que les unités de portefeuille permettent aux utilisateurs de portefeuille de signaler facilement des parties utilisatrices de portefeuille aux autorités de contrôle instituées en vertu de l’article 51 du règlement (UE) 2016/679.\n\n**2.** Les fournisseurs de portefeuille mettent en œuvre les protocoles et les interfaces de signalement des parties utilisatrices de portefeuille conformément au droit procédural national des États membres.\n\n**3.** Les fournisseurs de portefeuille veillent à ce que les unités de portefeuille permettent aux utilisateurs de portefeuille d’étayer leurs signalements, notamment en joignant des informations pertinentes permettant d’identifier les parties utilisatrices de portefeuille, et les propres déclarations dans un format lisible par la machine.",
+      "text_sha256": "f7462eb16183b009c8d46661d1d6edd5c0857ff751ea6886ee6bb3aa15e39640",
+      "md_span": {
+        "start": 13276,
+        "end": 14112
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_8",
+      "provision_id": "eu-eurlex:32024r2982:2026-08-11--fcac120a16d161b3b085ce0a52bdf2492c703eaceca35b0d9485cad96d3a1955#art_8",
+      "eli": null,
+      "type": "article",
+      "num": "Article 8",
+      "heading": "Entrée en vigueur",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Le présent règlement entre en vigueur le vingtième jour suivant celui de sa publication au Journal officiel de l’Union européenne.\n\nL’article 3, paragraphe 4, s’applique à compter du 11 août 2028.\n\nLe présent règlement est obligatoire dans tous ses éléments et directement applicable dans tout État membre.",
+      "text_sha256": "d98eb4f03ece2cb7303688fa8348aec43c6921fbf381adbd8813309de8b0a679",
+      "md_span": {
+        "start": 14169,
+        "end": 14475
+      },
+      "citations": []
+    }
+  ],
+  "notes": [
+    "boundaries: publisher eli-subdivision fragment identifiers (structural-in-presentation)"
+  ]
+}
